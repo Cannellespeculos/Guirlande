@@ -1,0 +1,32 @@
+article {
+    display: flex;
+    justify-content: space-around;
+}
+
+#rouge {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#vert {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#bleu {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#jaune {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+p {
+    justify-content: center;
+}
